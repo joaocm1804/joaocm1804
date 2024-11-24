@@ -1,6 +1,6 @@
 # 👋 I'm João Carlos!
 
-I’m a passionate **Computer Science student** currently pursuing my degree at the **Federal University of Pernambuco (UFPE)** and **CESAR School**, with an expected graduation in 2027.2 and 2028.2, respectively. I have a strong foundation in programming and a growing interest in exploring various domains of technology.
+**Computer Science student** currently pursuing my degree at the **Federal University of Pernambuco (UFPE)** and **CESAR School**, with an expected graduation in 2027.2 and 2028.2, respectively. I have a strong foundation in programming and a growing interest in exploring various domains of technology.
 
 ---
 
