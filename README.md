@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I’m a passionate **Computer Science student** cu
 
 ---
 
-## 🖥️ Featured Projects
+## 🖥️ Projects
 
 - 🌐 **Low-code Website**: Built an interactive website using low-code tools.
 - 🎮 **Arduino Genius Game**: Created a memory game inspired by "Genius" using Arduino.
@@ -23,15 +23,14 @@ Welcome to my GitHub profile! I’m a passionate **Computer Science student** cu
 
 ---
 
-## 🚀 Goals and Aspirations
+## 🚀 Goals
 
 I’m enthusiastic about problem-solving, innovation, and collaboration. My ultimate goal is to contribute meaningfully to projects that drive technology forward while growing both personally and professionally. I’m excited to connect with like-minded developers and teams to work on impactful projects.
 
 ---
 
-## 📫 Let’s Connect!
+## 📫 Contact
 
-- 🌍 [LinkedIn](https://www.linkedin.com/joaobrennand) *(Add your LinkedIn link)*
-- ✉️ [Email](mailto:joaocarlosmendes18@gmail.com) *(Replace with your email)*
+- 🌍 [LinkedIn](https://www.linkedin.com/joaobrennand)
+- ✉️ [Email](mailto:joaocarlosmendes18@gmail.com)
 
-Feel free to explore my repositories, share your thoughts, and collaborate with me on exciting projects. Let’s build something amazing together! 🚀
